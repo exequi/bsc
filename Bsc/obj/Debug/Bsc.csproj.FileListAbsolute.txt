@@ -1,0 +1,15 @@
+D:\toexe.com\project\BackupsSystem\src\client\Bsc\Bsc\bin\Debug\Bsc.exe.config
+D:\toexe.com\project\BackupsSystem\src\client\Bsc\Bsc\bin\Debug\Bsc.exe
+D:\toexe.com\project\BackupsSystem\src\client\Bsc\Bsc\bin\Debug\Bsc.pdb
+D:\toexe.com\project\BackupsSystem\src\client\Bsc\Bsc\obj\Debug\Bsc.csprojResolveAssemblyReference.cache
+D:\toexe.com\project\BackupsSystem\src\client\Bsc\Bsc\obj\Debug\Bsc.Main.resources
+D:\toexe.com\project\BackupsSystem\src\client\Bsc\Bsc\obj\Debug\Bsc.Properties.Resources.resources
+D:\toexe.com\project\BackupsSystem\src\client\Bsc\Bsc\obj\Debug\Bsc.csproj.GenerateResource.Cache
+D:\toexe.com\project\BackupsSystem\src\client\Bsc\Bsc\obj\Debug\Bsc.exe
+D:\toexe.com\project\BackupsSystem\src\client\Bsc\Bsc\obj\Debug\Bsc.pdb
+D:\toexe.com\project\BackupsSystem\src\client\Bsc\Bsc\obj\Debug\Bsc.View.BackFolder.resources
+D:\toexe.com\project\BackupsSystem\src\client\Bsc\Bsc\obj\Debug\Bsc.View.Connect.resources
+D:\toexe.com\project\BackupsSystem\src\client\Bsc\Bsc\obj\Debug\Bsc.View.Setting.resources
+D:\toexe.com\project\BackupsSystem\src\client\Bsc\Bsc\obj\Debug\Bsc.View.Compare.resources
+D:\toexe.com\project\BackupsSystem\src\client\Bsc\Bsc\obj\Debug\Bsc.View.ignore.resources
+D:\toexe.com\project\BackupsSystem\src\client\Bsc\Bsc\obj\Debug\Bsc.View.UpDownLog.resources
